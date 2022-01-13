@@ -1,0 +1,118 @@
+2022-01-05 13:37:35 INFO     Lihat Bawah
+2022-01-05 13:37:35 INFO     Lihat Bawah
+2022-01-05 13:37:35 INFO     Lihat Bawah
+2022-01-05 13:37:35 DEBUG    Face Not Found
+2022-01-05 13:37:35 INFO     Lihat Bawah
+2022-01-05 13:37:35 INFO     Lihat Bawah
+2022-01-05 13:37:35 INFO     Lihat Kiri
+2022-01-05 13:37:36 DEBUG    Face Not Found
+2022-01-05 13:37:36 INFO     Lihat Kiri
+2022-01-05 13:37:36 INFO     Lihat Kiri
+2022-01-05 13:37:36 INFO     Lihat Kiri
+2022-01-05 13:37:36 INFO     Lihat Kiri
+2022-01-05 13:37:36 INFO     Lirik Kanan
+2022-01-05 13:37:36 DEBUG    Face Not Found
+2022-01-05 13:37:36 DEBUG    Face Not Found
+2022-01-05 13:37:37 INFO     Lirik Kanan
+2022-01-05 13:37:37 INFO     Lirik Kanan
+2022-01-05 13:37:37 INFO     Lirik Kanan
+2022-01-05 13:37:37 INFO     Lirik Kanan
+2022-01-05 13:37:37 INFO     Lirik Kanan
+2022-01-05 13:37:37 DEBUG    Face Not Found
+2022-01-05 13:37:37 DEBUG    Face Not Found
+2022-01-05 13:37:37 DEBUG    Face Not Found
+2022-01-05 13:37:37 DEBUG    Face Not Found
+2022-01-05 13:37:37 DEBUG    Face Not Found
+2022-01-05 13:37:37 DEBUG    Face Not Found
+2022-01-05 13:37:37 DEBUG    Face Not Found
+2022-01-05 13:37:38 DEBUG    Face Not Found
+2022-01-05 13:37:38 DEBUG    Face Not Found
+2022-01-05 13:37:38 DEBUG    Face Not Found
+2022-01-05 13:37:38 DEBUG    Face Not Found
+2022-01-05 13:37:38 DEBUG    Face Not Found
+2022-01-05 13:37:38 DEBUG    Face Not Found
+2022-01-05 13:37:38 DEBUG    Face Not Found
+2022-01-05 13:37:38 DEBUG    Face Not Found
+2022-01-05 13:37:38 DEBUG    Face Not Found
+2022-01-05 13:37:38 DEBUG    Face Not Found
+2022-01-05 13:37:38 DEBUG    Face Not Found
+2022-01-05 13:37:38 DEBUG    Face Not Found
+2022-01-05 13:37:39 DEBUG    Face Not Found
+2022-01-05 13:37:39 DEBUG    Face Not Found
+2022-01-05 13:37:39 DEBUG    Face Not Found
+2022-01-05 13:37:39 DEBUG    Face Not Found
+2022-01-05 13:37:39 INFO     192.168.41.139 - - [05/Jan/2022 13:37:39] "GET /deteksi HTTP/1.1" 200 -
+2022-01-05 13:37:39 INFO     192.168.41.139 - - [05/Jan/2022 13:37:39] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:37:39 INFO     192.168.41.139 - - [05/Jan/2022 13:37:39] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:43:35 INFO     192.168.41.139 - - [05/Jan/2022 13:43:35] "GET /bot HTTP/1.1" 200 -
+2022-01-05 13:43:35 INFO     192.168.41.139 - - [05/Jan/2022 13:43:35] "GET /static/styles/bot.css HTTP/1.1" 200 -
+2022-01-05 13:43:46 INFO     192.168.41.139 - - [05/Jan/2022 13:43:46] "GET /get?msg=tolong HTTP/1.1" 200 -
+2022-01-05 13:47:24 INFO     192.168.41.139 - - [05/Jan/2022 13:47:24] "GET /get?msg=gerakan HTTP/1.1" 200 -
+2022-01-05 13:47:53 INFO     192.168.41.139 - - [05/Jan/2022 13:47:53] "GET /get?msg=tengok HTTP/1.1" 200 -
+2022-01-05 13:51:46 INFO     192.168.41.139 - - [05/Jan/2022 13:51:46] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-01-05 13:51:46 INFO     192.168.41.139 - - [05/Jan/2022 13:51:46] "GET /login HTTP/1.1" 200 -
+2022-01-05 13:51:59 INFO     192.168.41.139 - - [05/Jan/2022 13:51:59] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-01-05 13:51:59 INFO     192.168.41.139 - - [05/Jan/2022 13:51:59] "GET /dashboard HTTP/1.1" 200 -
+2022-01-05 13:51:59 INFO     192.168.41.139 - - [05/Jan/2022 13:51:59] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:51:59 INFO     192.168.41.139 - - [05/Jan/2022 13:51:59] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:52:07 INFO     192.168.41.139 - - [05/Jan/2022 13:52:07] "GET /pendaftaran HTTP/1.1" 200 -
+2022-01-05 13:52:07 INFO     192.168.41.139 - - [05/Jan/2022 13:52:07] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:52:07 INFO     192.168.41.139 - - [05/Jan/2022 13:52:07] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:52:09 INFO     192.168.41.139 - - [05/Jan/2022 13:52:09] "GET /dashboard HTTP/1.1" 200 -
+2022-01-05 13:52:09 INFO     192.168.41.139 - - [05/Jan/2022 13:52:09] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:52:09 INFO     192.168.41.139 - - [05/Jan/2022 13:52:09] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:54:46 INFO     192.168.41.139 - - [05/Jan/2022 13:54:46] "GET /pendaftaran HTTP/1.1" 200 -
+2022-01-05 13:54:46 INFO     192.168.41.139 - - [05/Jan/2022 13:54:46] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:54:46 INFO     192.168.41.139 - - [05/Jan/2022 13:54:46] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:55:56 INFO     192.168.41.139 - - [05/Jan/2022 13:55:56] "POST /tambahdaftar HTTP/1.1" 200 -
+2022-01-05 13:55:59 INFO     192.168.41.139 - - [05/Jan/2022 13:55:59] "GET /pendaftaran HTTP/1.1" 200 -
+2022-01-05 13:55:59 INFO     192.168.41.139 - - [05/Jan/2022 13:55:59] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:55:59 INFO     192.168.41.139 - - [05/Jan/2022 13:55:59] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:56:22 INFO     192.168.41.139 - - [05/Jan/2022 13:56:22] "GET /suplier HTTP/1.1" 200 -
+2022-01-05 13:56:22 INFO     192.168.41.139 - - [05/Jan/2022 13:56:22] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:56:22 INFO     192.168.41.139 - - [05/Jan/2022 13:56:22] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:56:22 INFO     192.168.41.139 - - [05/Jan/2022 13:56:22] "GET /suplier HTTP/1.1" 200 -
+2022-01-05 13:56:22 INFO     192.168.41.139 - - [05/Jan/2022 13:56:22] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:56:22 INFO     192.168.41.139 - - [05/Jan/2022 13:56:22] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:57:16 INFO     192.168.41.139 - - [05/Jan/2022 13:57:16] "POST /tambahsuplier HTTP/1.1" 200 -
+2022-01-05 13:57:18 INFO     192.168.41.139 - - [05/Jan/2022 13:57:18] "GET /suplier HTTP/1.1" 200 -
+2022-01-05 13:57:18 INFO     192.168.41.139 - - [05/Jan/2022 13:57:18] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:57:18 INFO     192.168.41.139 - - [05/Jan/2022 13:57:18] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:57:48 INFO     192.168.41.139 - - [05/Jan/2022 13:57:48] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-01-05 13:57:48 INFO     192.168.41.139 - - [05/Jan/2022 13:57:48] "GET /login HTTP/1.1" 200 -
+2022-01-05 13:58:25 INFO     192.168.41.139 - - [05/Jan/2022 13:58:25] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-01-05 13:58:25 INFO     192.168.41.139 - - [05/Jan/2022 13:58:25] "GET /dashboard HTTP/1.1" 200 -
+2022-01-05 13:58:25 INFO     192.168.41.139 - - [05/Jan/2022 13:58:25] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:58:25 INFO     192.168.41.139 - - [05/Jan/2022 13:58:25] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:58:28 INFO     192.168.41.139 - - [05/Jan/2022 13:58:28] "GET /kelola_user HTTP/1.1" 200 -
+2022-01-05 13:58:28 INFO     192.168.41.139 - - [05/Jan/2022 13:58:28] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:58:28 INFO     192.168.41.139 - - [05/Jan/2022 13:58:28] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:58:46 INFO     192.168.41.139 - - [05/Jan/2022 13:58:46] "[32mPOST /tambahuser HTTP/1.1[0m" 302 -
+2022-01-05 13:58:46 INFO     192.168.41.139 - - [05/Jan/2022 13:58:46] "GET /kelola_user HTTP/1.1" 200 -
+2022-01-05 13:58:46 INFO     192.168.41.139 - - [05/Jan/2022 13:58:46] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:58:46 INFO     192.168.41.139 - - [05/Jan/2022 13:58:46] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:58:51 INFO     192.168.41.139 - - [05/Jan/2022 13:58:51] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-01-05 13:58:51 INFO     192.168.41.139 - - [05/Jan/2022 13:58:51] "GET /login HTTP/1.1" 200 -
+2022-01-05 13:59:03 INFO     192.168.41.139 - - [05/Jan/2022 13:59:03] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-01-05 13:59:03 INFO     192.168.41.139 - - [05/Jan/2022 13:59:03] "GET /dashboard HTTP/1.1" 200 -
+2022-01-05 13:59:03 INFO     192.168.41.139 - - [05/Jan/2022 13:59:03] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 13:59:03 INFO     192.168.41.139 - - [05/Jan/2022 13:59:03] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 14:00:26 INFO     192.168.41.139 - - [05/Jan/2022 14:00:26] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-01-05 14:00:26 INFO     192.168.41.139 - - [05/Jan/2022 14:00:26] "GET /login HTTP/1.1" 200 -
+2022-01-05 14:00:34 INFO     192.168.41.139 - - [05/Jan/2022 14:00:34] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-01-05 14:00:34 INFO     192.168.41.139 - - [05/Jan/2022 14:00:34] "GET /dashboard HTTP/1.1" 200 -
+2022-01-05 14:00:34 INFO     192.168.41.139 - - [05/Jan/2022 14:00:34] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 14:00:34 INFO     192.168.41.139 - - [05/Jan/2022 14:00:34] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 14:00:40 INFO     192.168.41.139 - - [05/Jan/2022 14:00:40] "GET /kelola_user HTTP/1.1" 200 -
+2022-01-05 14:00:40 INFO     192.168.41.139 - - [05/Jan/2022 14:00:40] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 14:00:40 INFO     192.168.41.139 - - [05/Jan/2022 14:00:40] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 14:01:57 INFO     192.168.41.139 - - [05/Jan/2022 14:01:57] "GET /pendaftaran HTTP/1.1" 200 -
+2022-01-05 14:01:57 INFO     192.168.41.139 - - [05/Jan/2022 14:01:57] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 14:01:57 INFO     192.168.41.139 - - [05/Jan/2022 14:01:57] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 14:03:07 INFO     192.168.41.139 - - [05/Jan/2022 14:03:07] "GET /dokter HTTP/1.1" 200 -
+2022-01-05 14:03:07 INFO     192.168.41.139 - - [05/Jan/2022 14:03:07] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 14:03:07 INFO     192.168.41.139 - - [05/Jan/2022 14:03:07] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
+2022-01-05 14:03:36 INFO     192.168.41.139 - - [05/Jan/2022 14:03:36] "POST /tambahdokter HTTP/1.1" 200 -
+2022-01-05 14:03:37 INFO     192.168.41.139 - - [05/Jan/2022 14:03:37] "GET /dokter HTTP/1.1" 200 -
+2022-01-05 14:03:37 INFO     192.168.41.139 - - [05/Jan/2022 14:03:37] "[36mGET /static/js/feather.min.js HTTP/1.1[0m" 304 -
+2022-01-05 14:03:37 INFO     192.168.41.139 - - [05/Jan/2022 14:03:37] "[36mGET /static/js/Chart.min.js HTTP/1.1[0m" 304 -
